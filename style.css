@@ -42,3 +42,27 @@ li{
     background-color: rgb(97,9,4);
     color: white;
 }
+#img11{
+    width:220px;
+    height:400px ;
+}
+#img21{
+    width:220px; 
+    height:400px ;
+}
+#img31{
+    width:220px ;
+    height:400px ;
+}
+#img41{
+    width:220px ;
+    height:400px ;
+}
+
+table{
+    background-color:black ;
+    color: white;
+}
+table td:nth-child(1){
+    color:cyan ;
+}
